@@ -1,0 +1,18 @@
+﻿  mfcDlg.cpp
+mfcDlg.cpp(212): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+mfcDlg.cpp(218): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+mfcDlg.cpp(224): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+mfcDlg.cpp(230): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+mfcDlg.cpp(260): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+mfcDlg.cpp(261): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+mfcDlg.cpp(262): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+mfcDlg.cpp(284): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+mfcDlg.cpp(285): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+mfcDlg.cpp(286): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  1 of 703 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  mfc.vcxproj -> C:\Users\gmh\Desktop\mfc\Release\mfc.exe
+  mfc.vcxproj -> C:\Users\gmh\Desktop\mfc\Release\mfc.pdb (Full PDB)

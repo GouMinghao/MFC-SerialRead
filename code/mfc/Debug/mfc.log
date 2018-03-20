@@ -1,0 +1,16 @@
+﻿  mfcDlg.cpp
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(212): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(218): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(224): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(230): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(260): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(261): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(262): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(284): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(285): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+c:\users\gmh\desktop\mfc\mfc\mfcdlg.cpp(286): warning C4244: “参数”: 从“double”转换到“DWORD”，可能丢失数据
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  mfc.cpp
+  mfc.vcxproj -> C:\Users\gmh\Desktop\mfc\Debug\mfc.exe
+  mfc.vcxproj -> C:\Users\gmh\Desktop\mfc\Debug\mfc.pdb (Partial PDB)
